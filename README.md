@@ -24,10 +24,9 @@
 # Big Data - Science
 
 
-- [Pré-requisitos](https://github.com/MarcoSena2210/Projeto_Final_Spark_Covid19_SEMANTIX-Campanha#pr%C3%A9-requisitos)
+- [Pré-requisitos](https://github.com/MarcoSena2210/https://github.com/MarcoSena2210/Big-Data-Science-Semantix#requisitos)
 
-- [Preparando o ambiente](https://github.com/MarcoSena2210/Projeto_Final_Spark_Covid19_SEMANTIX-Campanha#preparando-o-ambiente)
-
+- [Preparando o ambiente](https://github.com/MarcoSena2210/https://github.com/MarcoSena2210/https://github.com/MarcoSena2210/Big-Data-Science-Semantix#preparando-o-ambiente)
 
 
 
@@ -35,6 +34,7 @@
 - [Big Data Foundations](https://github.com/MarcoSena2210/?????)
 
 - [Armazenamento e Escrita de Dados](https://github.com/MarcoSena2210/?????)
+    Mongodb
 
 - [Python – Básico](https://github.com/MarcoSena2210/?????)
 
@@ -72,7 +72,7 @@ Para melhor compreensão e execução do projeto é necessário conhecimentos b�
 Esse projeto tem como objetivo desenvolver os conhecimentos adquiridos durante o treinamento de [Big Data Science](https://github.com/MarcoSena2210/big-data-engineer-sematix) promovido pela Semantix Inc no segundo semestre de 2022. 
 
 
-⚠ **Observação: Todas as imagens de exemplo abaixo (Visualizações) são apenas para referencias, o projeto irá ter valores diferentes e as formas de se criar tabelas com dataframe/dataset das visualizações, pode ser realizado da maneira que preferir.**
+⚠ **Observação: Todas as imagens de exemplo abaixo (Visualizações) são apenas para referencias, o treinamento irá ter valores diferentes e as formas de se criar tabelas com dataframe/dataset das visualizações, pode ser realizado da maneira que preferir.**
 
 ------
 ## Configurando o Docker em sua máquina:
